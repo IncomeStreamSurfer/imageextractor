@@ -1,0 +1,19 @@
+  {
+    "wordpress_url": "fordogtrainers.com/",
+    "user_id": "rowan",
+    "user_app_password": "Xb",
+    "OPENAI_API_TOKEN": "X",
+    "FREEIMAGE_HOST_API_KEY": "X",
+    "PERPLEXITY_API_KEY": "X",
+    "business_name": "Green Saffron",
+    "page_type": "Product Page Description",
+    "business_type": "Simple English - Were all about fresh spices  ours travel at top-speed from partner farms in India, making the trip from source to sauce in just 8 weeks. Spice innovation for aspirational flavour results. Absolutely everything we do is underpinned by our main mantra of fast, fresh and healthy.",
+    "path_to_image_file": "brandimagesandlinks.txt",
+    "path_to_example_file": "example.txt",
+    "path_to_product_file": "products.txt",
+    "path_to_plan_csv": "keywords.csv",
+    "language": "British English",
+    "country": "Ireland",
+    "tone": "Third person plural, our spices..",
+    "sitemap": "sitemap_products_1 (30).xml"
+  }
